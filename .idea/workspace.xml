@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="14d20a07-a441-48d8-aa71-7719b26d02ce" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/ascii.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ascii.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ascii.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/_a_frm165,20@4x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/_a_frm166,20@4x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/_a_frm167,20@4x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs2/Untitled-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs2/Untitled-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs2/amen.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs2/austin.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs2/camera.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs2/composed.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs2/cover.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs2/cover_back.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs2/cover_bright.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs2/cover_faceonly.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs2/cover_front.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs2/cover_front2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs2/cover_invert.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs2/cover_invert.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs2/cover_invert2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs2/cover_invert3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs2/cover_small.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs2/cover_textonly.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs2/cover_zoom.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs2/eyes 2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs2/eyes.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs2/eyes.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs2/face.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs2/face_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs2/face_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs2/full_face.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs2/large_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs2/love.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs2/mushroom.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs2/room.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs2/scale.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs2/six.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs2/starring.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs2/title.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs2/title.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2QTpOq3iMNxwPf0wzMg6ZgRxQUE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/austingreen/Documents/pycharm/ascii/imgs2&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/imgs2" />
+      <recent name="$PROJECT_DIR$/layers" />
+      <recent name="$PROJECT_DIR$/imgs" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/imgs2" />
+      <recent name="$PROJECT_DIR$/imgs2" />
+      <recent name="$PROJECT_DIR$/imgs2" />
+      <recent name="$PROJECT_DIR$/imgs2" />
+      <recent name="$PROJECT_DIR$/imgs2" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="14d20a07-a441-48d8-aa71-7719b26d02ce" name="Changes" comment="" />
+      <created>1685387396536</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1685387396536</updated>
+    </task>
+    <servers />
+  </component>
+</project>
