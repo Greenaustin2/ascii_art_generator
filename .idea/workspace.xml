@@ -5,53 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="14d20a07-a441-48d8-aa71-7719b26d02ce" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/ascii.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ascii.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ascii.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/_a_frm165,20@4x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/_a_frm166,20@4x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/_a_frm167,20@4x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs2/Untitled-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs2/Untitled-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs2/amen.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs2/austin.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs2/camera.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs2/composed.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs2/cover.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs2/cover_back.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs2/cover_bright.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs2/cover_faceonly.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs2/cover_front.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs2/cover_front2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs2/cover_invert.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs2/cover_invert.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs2/cover_invert2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs2/cover_invert3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs2/cover_small.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs2/cover_textonly.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs2/cover_zoom.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs2/eyes 2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs2/eyes.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs2/eyes.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs2/face.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs2/face_2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs2/face_3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs2/full_face.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs2/large_2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs2/love.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs2/mushroom.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs2/room.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs2/scale.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs2/six.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs2/starring.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs2/title.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs2/title.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,6 +20,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2QTpOq3iMNxwPf0wzMg6ZgRxQUE" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -85,7 +43,7 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/imgs2" />
       <recent name="$PROJECT_DIR$/imgs2" />
-      <recent name="$PROJECT_DIR$/imgs2" />
+      <recent name="$PROJECT_DIR$/loops" />
       <recent name="$PROJECT_DIR$/imgs2" />
       <recent name="$PROJECT_DIR$/imgs2" />
     </key>
